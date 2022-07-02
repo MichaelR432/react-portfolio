@@ -1,0 +1,11 @@
+.workRow {
+    padding-top: 150px;
+}
+
+.cardBox {
+    border: none;
+}
+
+.cardBody {
+    background-color: lightgray;
+}

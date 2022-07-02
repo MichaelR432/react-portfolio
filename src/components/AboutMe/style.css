@@ -1,0 +1,20 @@
+.aboutRow {
+    padding-top: 150px;
+}
+
+.aboutCol {
+    text-align: center;
+}
+
+.aboutText {
+    color: rgb(227, 227, 227);
+    padding-bottom: 10px;
+    text-decoration: underline;
+    text-decoration-color: rgb(213, 181, 0);
+    text-underline-offset: 0.3em
+}
+
+.pText {
+    color: rgb(227, 227, 227);
+    font-size: 13pt;
+}

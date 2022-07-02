@@ -1,0 +1,33 @@
+.main {
+    padding-top: 100px;
+}
+
+.text {
+    color: white
+}
+
+.mainTitle {
+    color: white;
+    font-weight: bold;
+    /* margin-top: 70px; */
+}
+
+.mainSubTitle {
+    color: white;
+    font-weight: 400;
+}
+
+.btn-warning {
+    font-weight: bold;
+    color: #031315;
+    
+}
+
+.textCol {
+    margin-left: 20px;
+}
+
+.profileImg {
+    border-radius: 10%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
